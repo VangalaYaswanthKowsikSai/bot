@@ -361,8 +361,8 @@ test_df = df.sample(n=50, random_state=42)  # Line ~110
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Niranjan70957/prompt-vs-finetune-roi.git
-cd prompt-vs-finetune-roi
+git clone https://github.com/VangalaYaswanthKowsikSai/bot.git
+cd bot
 ```
 
 ### 2. Create Virtual Environment
@@ -440,14 +440,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-## 👤 Author
-
-**Niranjan**
-
-- GitHub: [@Niranjan70957](https://github.com/Niranjan70957)
-- LinkedIn: [Your LinkedIn Profile]
-
----
 
 ## ⭐ Acknowledgments
 
@@ -484,19 +476,12 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **🚀 Get Started Now - It's 100% FREE!**
 
 ```bash
-git clone https://github.com/Niranjan70957/prompt-vs-finetune-roi.git
-cd prompt-vs-finetune-roi
+git clone https://github.com/VangalaYaswanthKowsikSai/bot.git
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 python run_all.py
 ```
 
----
 
-⭐ **Star this repo** if you find it useful!
-📧 **Questions?** Open an issue!
-🔄 **Contribute** and make it better!
 
----
 
-*Built with ❤️ using 100% free, open-source tools*
