@@ -246,16 +246,6 @@ The comparison script generates four key visualizations:
 
 ---
 
-## 💼 Using This for Job Applications
-
-### For Your Resume
-```
-Prompt Engineering vs. Fine-Tuning ROI Analysis
-- Built ML pipeline comparing LLM classification approaches using HuggingFace
-- Achieved 85% accuracy with zero-cost inference using SetFit fine-tuning
-- Automated evaluation framework measuring accuracy, latency, and model size
-- Technologies: Python, HuggingFace Transformers, SetFit, PyTorch, Scikit-learn
-```
 
 ### What This Demonstrates
 
