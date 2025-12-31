@@ -1,0 +1,93 @@
+text,sentiment,label
+"$AAPL beating earnings expectations! Strong quarter ahead 📈",positive,1
+"Apple stock surges 5% after earnings report",positive,1
+"Bullish momentum on $TSLA, breaking resistance levels",positive,1
+"Tesla receives major new fleet order from Hertz",positive,1
+"$MSFT cloud revenue exceeds analyst predictions",positive,1
+"Microsoft Azure growth accelerates in Q4",positive,1
+"Strong buy signal on $GOOGL, institutional accumulation detected",positive,1
+"Google advertising revenue beats expectations",positive,1
+"$NVDA chip demand remains robust despite market concerns",positive,1
+"NVIDIA announces new AI chip partnership with major cloud providers",positive,1
+"Insider buying detected on $AMD, bullish signal",positive,1
+"AMD gains market share in server CPU segment",positive,1
+"$JPM raises dividend, solid banking fundamentals",positive,1
+"JPMorgan Chase reports record quarterly profit",positive,1
+"Upgrade on $BA to overweight, production ramp-up underway",positive,1
+"Boeing secures largest aircraft order in company history",positive,1
+"$DIS streaming subscriber growth beats estimates",positive,1
+"Disney+ announces blockbuster content lineup for 2024",positive,1
+"Analyst raises $META price target to $450",positive,1
+"Meta's AI investments showing strong ROI in advertising",positive,1
+"$AMZN e-commerce margins expanding, positive trend",positive,1
+"Amazon Web Services revenue growth reaccelerates",positive,1
+"Strong institutional flow into $NFLX ahead of earnings",positive,1
+"Netflix subscriber additions crush analyst estimates",positive,1
+"Breakout pattern forming on $CRM chart",positive,1
+"Salesforce announces major AI platform integration",positive,1
+"$TSLA disappointing delivery numbers, below estimates",negative,0
+"Tesla faces increased competition in China market",negative,0
+"Bearish divergence on $AAPL, potential correction ahead",negative,0
+"Apple iPhone sales miss expectations in key markets",negative,0
+"Downgrade on $NFLX to neutral, valuation concerns",negative,0
+"Netflix faces subscriber churn in saturated markets",negative,0
+"$META faces regulatory headwinds in EU markets",negative,0
+"Meta fined $1.3B for privacy violations",negative,0
+"Weakening demand signals for $NVDA in crypto sector",negative,0
+"NVIDIA guidance disappoints, stock drops 8% after hours",negative,0
+"$BA production issues persist, delivery delays continue",negative,0
+"Boeing reports wider than expected quarterly loss",negative,0
+"Insider selling accelerates at $PYPL",negative,0
+"PayPal loses market share to newer fintech competitors",negative,0
+"$UBER regulatory risks increasing in major markets",negative,0
+"Uber faces driver shortage, affecting service quality",negative,0
+"Margin compression concerns for $AMZN retail segment",negative,0
+"Amazon faces antitrust investigation in multiple countries",negative,0
+"$SNAP user growth stalling, advertising revenue declining",negative,0
+"Snapchat loses users to TikTok and Instagram",negative,0
+"Technical breakdown on $SQ, support level broken",negative,0
+"Square faces increased competition in payment processing",negative,0
+"$ZM facing secular headwinds post-pandemic",negative,0
+"Zoom usage declining as workers return to office",negative,0
+"Rising debt levels concerning for $T",negative,0
+"AT&T subscriber losses continue in wireless segment",negative,0
+"$F supply chain disruptions impacting production",negative,0
+"Ford delays EV production targets amid battery constraints",negative,0
+"Disappointing guidance from $INTC management",negative,0
+"Intel loses more market share to AMD in datacenter",negative,0
+"$GM recall expands, quality control issues evident",negative,0
+"General Motors faces strike threat from UAW",negative,0
+"Federal Reserve maintains current interest rates",neutral,2
+"The Fed signals data-dependent approach to future policy",neutral,2
+"$SPY trading sideways in narrow range",neutral,2
+"S&P 500 consolidates near all-time highs",neutral,2
+"Mixed signals in manufacturing PMI data",neutral,2
+"Manufacturing activity shows signs of stabilization",neutral,2
+"Oil prices hovering around $80 per barrel",neutral,2
+"Crude oil inventory data in line with expectations",neutral,2
+"Treasury yields relatively stable this week",neutral,2
+"10-year yield fluctuates between 4.2% and 4.4%",neutral,2
+"Consumer sentiment index unchanged from prior month",neutral,2
+"Consumer confidence remains steady despite inflation concerns",neutral,2
+"$VIX trading near historical average levels",neutral,2
+"Market volatility index shows complacency among investors",neutral,2
+"Earnings season kicks off next week with major banks",neutral,2
+"Analysts await corporate guidance for Q2 outlook",neutral,2
+"Dollar index consolidating after recent rally",neutral,2
+"USD strength moderates as markets reassess Fed path",neutral,2
+"Housing starts data meets economist forecasts",neutral,2
+"New home construction matches seasonal expectations",neutral,2
+"Cryptocurrency market cap remains stable around $2T",neutral,2
+"Bitcoin consolidates between $60K and $65K range",neutral,2
+"Gold prices unchanged, trading around $2000/oz",neutral,2
+"Precious metals await clarity on monetary policy",neutral,2
+"Retail sales growth in line with expectations",neutral,2
+"Consumer spending patterns show modest growth",neutral,2
+"Corporate bond spreads tighten marginally",neutral,2
+"Credit markets reflect stable risk appetite",neutral,2
+"Initial jobless claims steady at 220K",neutral,2
+"Labor market shows continued resilience",neutral,2
+"Inflation data scheduled for release Wednesday",neutral,2
+"Markets await CPI print for policy direction clues",neutral,2
+"Emerging markets mixed, no clear trend",neutral,2
+"EM currencies trade in narrow ranges vs dollar",neutral,2
