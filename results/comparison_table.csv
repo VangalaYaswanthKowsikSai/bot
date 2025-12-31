@@ -1,0 +1,4 @@
+Method,Accuracy,F1-Score,Avg Latency (ms),API Cost,Training Time (s)
+Zero-Shot,0.7000,0.6344,523.41,FREE! 🔓,0.00
+Few-Shot,0.6333,0.5004,386.57,FREE! 🔓,0.00
+SetFit,0.8000,0.7765,19.55,FREE! 🔓,39.20
