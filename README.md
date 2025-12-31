@@ -467,7 +467,6 @@ Ideas for contributions:
 
 ---
 
-**🚀 Get Started Now - It's 100% FREE!**
 
 ```bash
 git clone https://github.com/VangalaYaswanthKowsikSai/bot.git
