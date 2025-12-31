@@ -25,8 +25,8 @@ We welcome suggestions for:
 #### 1. Fork and Clone
 
 ```bash
-git fork https://github.com/Niranjan70957/prompt-vs-finetune-roi.git
-git clone https://github.com/YOUR_USERNAME/prompt-vs-finetune-roi.git
+git fork https://github.com/VangalaYaswanthKowsikSai/bot.git
+git clone https://github.com/YOUR_USERNAME/bot.git
 cd prompt-vs-finetune-roi
 ```
 
@@ -301,9 +301,7 @@ Contributors will be:
 
 ## Questions?
 
-- Create a discussion: https://github.com/Niranjan70957/prompt-vs-finetune-roi/discussions
+- Create a discussion: https://github.com/VangalaYaswanthKowsikSai/bot/discussions
 - Email: [your-email@example.com]
 
----
 
-Thank you for contributing to make this project better! 🚀
