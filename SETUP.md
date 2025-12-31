@@ -55,8 +55,8 @@ sudo apt install python3.11 python3.11-venv python3-pip
 
 **Option A: Using Git**
 ```bash
-git clone https://github.com/Niranjan70957/prompt-vs-finetune-roi.git
-cd prompt-vs-finetune-roi
+git clone https://github.com/VangalaYaswanthKowsikSai/bot.git
+
 ```
 
 **Option B: Download ZIP**
@@ -362,14 +362,6 @@ text,sentiment,label
 - Cache API responses during development
 - Use SetFit for production (free inference)
 
-## Getting Help
-
-If you encounter issues not covered here:
-
-1. **Check existing issues**: https://github.com/Niranjan70957/prompt-vs-finetune-roi/issues
-2. **Create new issue**: Include error message, OS, Python version
-3. **Email support**: [your-email@example.com]
-
 ## Next Steps
 
 After successful setup:
@@ -382,4 +374,3 @@ After successful setup:
 
 ---
 
-**Happy Experimenting!** 🚀
