@@ -152,6 +152,3 @@ python src/method_c_setfit.py
 python run_all.py
 ```
 
----
-
-*100% free, 100% open-source, 100% yours!* 🔓
