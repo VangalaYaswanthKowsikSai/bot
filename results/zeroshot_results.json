@@ -1,0 +1,42 @@
+{
+  "method": "Zero-Shot (HuggingFace)",
+  "model": "facebook/bart-large-mnli",
+  "api_cost": 0.0,
+  "accuracy": 0.7,
+  "f1_score": 0.6344388703084356,
+  "avg_latency_ms": 523.4071890513102,
+  "total_time_sec": 15.702215671539307,
+  "classification_report": {
+    "negative": {
+      "precision": 0.8461538461538461,
+      "recall": 1.0,
+      "f1-score": 0.9166666666666666,
+      "support": 11.0
+    },
+    "positive": {
+      "precision": 0.5333333333333333,
+      "recall": 1.0,
+      "f1-score": 0.6956521739130435,
+      "support": 8.0
+    },
+    "neutral": {
+      "precision": 1.0,
+      "recall": 0.18181818181818182,
+      "f1-score": 0.3076923076923077,
+      "support": 11.0
+    },
+    "accuracy": 0.7,
+    "macro avg": {
+      "precision": 0.7931623931623931,
+      "recall": 0.7272727272727272,
+      "f1-score": 0.6400037160906725,
+      "support": 30.0
+    },
+    "weighted avg": {
+      "precision": 0.8191452991452992,
+      "recall": 0.7,
+      "f1-score": 0.6344388703084356,
+      "support": 30.0
+    }
+  }
+}

@@ -42,8 +42,6 @@ ENV/
 *.ipynb
 
 # Results (optional - remove if you want to commit results)
-results/*.json
-results/*.png
 results/setfit_model/
 
 # MacOS

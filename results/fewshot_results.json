@@ -1,0 +1,43 @@
+{
+  "method": "Few-Shot (HuggingFace)",
+  "model": "google/flan-t5-base",
+  "num_examples": 3,
+  "api_cost": 0.0,
+  "accuracy": 0.6333333333333333,
+  "f1_score": 0.5004444444444444,
+  "avg_latency_ms": 386.5692138671875,
+  "total_time_sec": 11.597076416015625,
+  "classification_report": {
+    "negative": {
+      "precision": 0.7857142857142857,
+      "recall": 1.0,
+      "f1-score": 0.88,
+      "support": 11.0
+    },
+    "positive": {
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1-score": 0.6666666666666666,
+      "support": 8.0
+    },
+    "neutral": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 11.0
+    },
+    "accuracy": 0.6333333333333333,
+    "macro avg": {
+      "precision": 0.42857142857142855,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.5155555555555555,
+      "support": 30.0
+    },
+    "weighted avg": {
+      "precision": 0.42142857142857143,
+      "recall": 0.6333333333333333,
+      "f1-score": 0.5004444444444444,
+      "support": 30.0
+    }
+  }
+}
