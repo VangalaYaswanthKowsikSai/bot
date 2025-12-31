@@ -27,7 +27,7 @@ We welcome suggestions for:
 ```bash
 git fork https://github.com/VangalaYaswanthKowsikSai/bot.git
 git clone https://github.com/YOUR_USERNAME/bot.git
-cd prompt-vs-finetune-roi
+cd bot
 ```
 
 #### 2. Create a Branch
